@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ab88c4eb4b9156c409362452f6f966f9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles: []
+  errors:
+  - "Missing texture asset: ../../../../\u0410\u0441\u0441\u0435\u0442\u044B  \u043A
+    \u0438\u0433\u0440\u0435/\u041B\u043E\u0434\u043A\u0438/boot_2_by_schwarzenacht_datt45u.png"
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

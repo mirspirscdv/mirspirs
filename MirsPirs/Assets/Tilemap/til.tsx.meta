@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b8507808ff74a994393e448d038f7081
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles: []
+  errors:
+  - "Missing texture asset: ../../../../\u0410\u0441\u0441\u0435\u0442\u044B  \u043A
+    \u0438\u0433\u0440\u0435/\u0417\u0435\u043C\u043B\u044F\u0421\u0442\u0435\u043D\u044B\u041A\u0440\u044B\u0448\u0430/rpg_maker_vx__modernrtp_tilea2_by_painhurt_d3f7rwg.png"
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

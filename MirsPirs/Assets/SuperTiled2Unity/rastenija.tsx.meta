@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 64c5dee257a488542bf87b3dc5429888
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles: []
+  errors:
+  - "Missing texture asset: ../../../../\u0410\u0441\u0441\u0435\u0442\u044B  \u043A
+    \u0438\u0433\u0440\u0435/\u0420\u0430\u0441\u0442\u0435\u043D\u0438\u044F\u0414\u0435\u0440\u0435\u0432\u044C\u044F/91c411727d77f9d913a6fcea1c730241.png"
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048
